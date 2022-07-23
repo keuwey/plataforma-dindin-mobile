@@ -21,12 +21,51 @@
     .ZWay {
         display: flex;
         align-items: center;
+        flex-direction: column;
     }
-    .ux9K {
-        padding: 0px 35px 0px 0px;
+    .ux9K1 {
+        padding: 0px 0px 10px 0px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        text-transform: uppercase;
+        color: #FDFDFD;
         list-style: none;
+    }
+    .ux9K2 {
+        padding: 0px 0px 10px 0px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        text-transform: uppercase;
+        color: #FDFDFD;
+        list-style: none;
+    }
+    .ux9K3 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        text-transform: uppercase;
+        color: #FDFDFD;
+        list-style: none;
+    }
+    .IDiR {
+        padding: 15px 0px 0px 0px;
+    }
+
+    body header div nav li a:link {
+        text-decoration: none;
+        color: #FDFDFD;
+    }
+
+    body header div nav li a:visited {
+        text-decoration: none;
+        color: #FDFDFD;
     }
     body header div nav li a:active {
         text-decoration: none;
+    }
+    .NCG9 {
+        padding: 15px 0px 15px 0px;
     }
 }
