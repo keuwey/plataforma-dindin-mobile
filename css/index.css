@@ -95,15 +95,13 @@
         font-weight: 400;
         font-size: 27px;
         line-height: 31px;
-        color: #FF4081;
         box-sizing: border-box;
-        border: 2px solid #FF4081;
         border-radius: 62px;
         transition: 0.3s;
-        background-color: white;
+        background-color: #FF4081;
     }
     .A6hY {
-        color: #FF4081;
+        color: white;
     }
     body section button a:active {
         text-decoration: none;
