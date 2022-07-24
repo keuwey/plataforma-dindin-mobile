@@ -303,5 +303,63 @@
     .pktY {
         padding: 80px 0px 30px 0px;
     }
-
+    .t8cl {
+        max-width: 100%;
+    }
+    .Bygr {
+        padding: 50px 0px 50px 0px;
+        background: #419488;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .ZNVf {
+        display: flex;
+        align-items: center;
+    }
+    .iten1 {
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 23px;
+        list-style: none;
+        color: #FFFFFF;
+    }
+    .iten2 {
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 23px;
+        color: #FFFFFF;
+        list-style: none;
+        padding: 0px 0px 0px 30px;
+    }
+    .iten3 {
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 23px; 
+        color: #FFFFFF;
+        padding: 0px 0px 0px 30px;
+        list-style: none;
+    }
+    .oGt9 {
+        padding: 30px 0px 0px 0px;
+    }
+    body footer div nav ul li a:active {
+        text-decoration: none;
+    }
+    body footer div nav ul li a:visited {
+        text-decoration: none;
+        color: #FDFDFD;
+    }
+    body footer div nav ul li a:link {
+        text-decoration: none;
+        color: #FDFDFD;
+    }
+    body footer div nav ul li
 }
