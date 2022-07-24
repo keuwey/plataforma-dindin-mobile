@@ -86,7 +86,7 @@
         color: #555555;
     }
     .kimR{
-        padding: 35px 0px 40px 0px;
+        padding: 35px 0px 70px 0px;
     }
     .gHqJ{
         font-style: normal;
@@ -122,6 +122,71 @@
         justify-content: space-evenly;
     }
     .Hyg9 {
-        max-width: 80%;
+        padding: 0px 0px 66px 0px;
+        max-width: 90%;
+    }
+    .z-bD {
+        background: #F7F7F7;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .qSvg {
+        max-width: 70%;
+        padding: 110px 0px 0px 0px;
+    }
+    .cNCw {
+        padding: 45px 0px 23px 0px;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #FF4081;
+    }
+    .PUTL {
+        padding: 0px 0px 26px 0px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 17px;
+        line-height: 20px;
+        text-align: center;
+        color: #000000;
+    }
+    .SX5G {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .ldZW {
+        width: 233px;
+        height: 51px;
+        background: #FF4081;
+        border-radius: 62px;
+    }
+    body article div button a:active {
+        text-decoration: none;
+    }
+    body article div button a:link {
+        text-decoration: none;
+        color: #FDFDFD;
+    }
+    body article div button a:visited {
+        text-decoration: none;
+        color: #FDFDFD;
+    }
+    .KczH {
+        padding: 110px 0px 0px 0px;
+        max-width: 70%;
+    }
+    .Z1a9 {
+        padding: 110px 0px 0px 0px;
+    }
+    .ulEc {
+        padding: 0px 0px 110px 0px;
     }
 }
