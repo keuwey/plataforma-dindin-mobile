@@ -189,4 +189,53 @@
     .ulEc {
         padding: 0px 0px 110px 0px;
     }
+    .MCmh {
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 37px;
+        line-height: 50px;
+        color: #009688;
+        text-align: center;
+    }
+    .k-je {
+        padding: 100px 0px 100px 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .fm55 {
+        max-width: 100%;
+    }
+    .Klen {
+        padding: 78px 0px 0px 0px;
+    }
+    .m7SR {
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 25px;
+        color: #000000;
+        text-align: center;
+    }
+    .lULY {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .xDnb {
+        padding: 28px 0px 0px 0px;
+    }
+    .al4S {
+        padding: 11px 0px 0px 0px;
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        color: #000000;
+    }
 }
